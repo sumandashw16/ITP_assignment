@@ -1,4 +1,0 @@
-Rules:
-submit the assignment in the respective folder only
-do not copy from chatgpt or any other ai tools as it can be easily tracked 
-make a single file having all the answers and the naming should be on your name otherwise folder named on your name containing answer files
